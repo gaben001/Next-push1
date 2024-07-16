@@ -33,7 +33,7 @@ English | [简体中文](./README-CN.md)
 6. After the deployment is complete, you can start using it;
 7. (Optional) [Bind a custom domain](https://vercel.com/docs/concepts/projects/domains/add-a-domain): The DNS of the domain allocated by Vercel is polluted in some regions, binding a custom domain allows direct connection.
 
-## Contributing
+## Contributing  
 
 [Local Run](./DEVELOPMENT.md)
 
